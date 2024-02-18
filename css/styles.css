@@ -1,0 +1,441 @@
+@charset "UTF-8";
+.ofshi {
+  /* Макет */
+  position: relative;
+  width: 1600px;
+  height: 8597px;
+  /* Білий (фон) */
+  background: rgb(255, 255, 255);
+}
+.ofshi .main {
+  /* Етапи роботи */
+  position: absolute;
+  width: 1215px;
+  height: 458px;
+  left: 200px;
+  right: 185px;
+  top: 5051px;
+  bottom: 3088px;
+}
+.ofshi .main-text {
+  /* Етапи роботи */
+  position: absolute;
+  width: 355px;
+  height: 58px;
+  left: 538px;
+  right: 222px;
+  top: 0px;
+  bottom: 4651px;
+  /* заголовок_H2 */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: left;
+  text-transform: uppercase;
+}
+.ofshi .main-container {
+  /* Підписання договору */
+  position: absolute;
+  width: 240px;
+  height: 220px;
+  left: 100px;
+  top: 202px;
+}
+.ofshi .main-img {
+  /* Ellipse 8 */
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 1px;
+  top: 2px;
+}
+.ofshi .main-text2 {
+  /* Підписання договору */
+  position: absolute;
+  width: 188px;
+  height: 18px;
+  left: 30px;
+  right: -148px;
+  top: 95px;
+  bottom: -5085px;
+  /* text_18px (semibold) */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.ofshi .main-textp {
+  position: absolute;
+  width: 240px;
+  height: 92px;
+  left: 20px;
+  right: -200px;
+  top: 133px;
+  bottom: -5192px;
+  /* text_16px (medium) */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 145%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.ofshi .main-container2 {
+  position: absolute;
+  width: 240px;
+  height: 220px;
+  left: 400px;
+  top: 202px;
+}
+.ofshi .main-im2 {
+  /* Ellipse 8 */
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 1px;
+  top: 2px;
+}
+.ofshi .main-text3 {
+  /* Підписання договору */
+  position: absolute;
+  width: 188px;
+  height: 18px;
+  left: 30px;
+  right: -148px;
+  top: 95px;
+  bottom: -5085px;
+  /* text_18px (semibold) */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.ofshi .main-container3 {
+  position: absolute;
+  width: 240px;
+  height: 220px;
+  left: 700px;
+  top: 202px;
+}
+.ofshi .main-im2 {
+  /* Ellipse 8 */
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 1px;
+  top: 2px;
+}
+.ofshi .main-text3 {
+  /* Підписання договору */
+  position: absolute;
+  width: 188px;
+  height: 18px;
+  left: 30px;
+  right: -148px;
+  top: 95px;
+  bottom: -5085px;
+  /* text_18px (semibold) */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.ofshi .main-container4 {
+  position: absolute;
+  width: 240px;
+  height: 220px;
+  left: 990px;
+  top: 202px;
+}
+.ofshi .main-im2 {
+  /* Ellipse 8 */
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 1px;
+  top: 2px;
+}
+.ofshi .main-text3 {
+  /* Підписання договору */
+  position: absolute;
+  width: 188px;
+  height: 18px;
+  left: 30px;
+  right: -148px;
+  top: 95px;
+  bottom: -5085px;
+  /* text_18px (semibold) */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.ofshi .rk {
+  /* Line 10 */
+  position: absolute;
+  width: 1200px;
+  height: 0;
+  left: -985px;
+  top: 289.5px;
+  transform: rotate(180deg);
+  /* Чорний */
+  border: 1px solid rgb(40, 43, 34);
+  opacity: 0.2;
+}
+.ofshi .jk {
+  /* Зараз в роботі */
+  position: absolute;
+  width: 1940px;
+  height: 539px;
+  left: -300px;
+  right: -170px;
+  top: 569px;
+  bottom: 2409px;
+}
+.ofshi .jk-text {
+  /* Зараз в роботі */
+  position: absolute;
+  width: 364px;
+  height: 58px;
+  left: 868px;
+  right: 928px;
+  top: 0px;
+  bottom: -168px;
+  /* заголовок_H2 */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: left;
+  text-transform: uppercase;
+}
+.ofshi .jk-img {
+  /* Rectangle 21 */
+  position: absolute;
+  width: 660px;
+  height: 350px;
+  left: -10px;
+  right: 1450px;
+  top: 187px;
+  bottom: -5568px;
+}
+.ofshi .jk-img2 {
+  /* Rectangle 19 */
+  position: absolute;
+  width: 600px;
+  height: 340px;
+  left: 690px;
+  right: 810px;
+  top: 187px;
+  bottom: -5558px;
+}
+.ofshi .jk-img3 {
+  /* Rectangle 20 */
+  position: absolute;
+  width: 600px;
+  height: 340px;
+  left: 1330px;
+  right: 170px;
+  top: 200px;
+  bottom: -5558px;
+}
+.ofshi .jk-text2 {
+  /* Квартира ЖК Медовий */
+  position: absolute;
+  width: 272px;
+  height: 24px;
+  left: 690px;
+  right: 1138px;
+  top: 567px;
+  bottom: -5612px;
+  /* Заголовок_H5 */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.ofshi .ringo {
+  /* Rectangle 17 */
+  position: absolute;
+  width: 1600px;
+  height: 483px;
+  left: -170px;
+  right: 0;
+  top: 1228px;
+  bottom: -6328px;
+  /* Сірий */
+  background: rgb(243, 243, 243);
+}
+.ofshi .ringo-text {
+  /* Рінго роздає подарунки! */
+  position: absolute;
+  width: 362px;
+  height: 116px;
+  left: 619px;
+  right: 619px;
+  top: 128px;
+  bottom: -6061px;
+  /* заголовок_H2 */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+}
+.ofshi .ringo-textp {
+  /* При замовленні до нового року, отримай цінний подарунок для свого комфорту */
+  position: absolute;
+  width: 355px;
+  height: 44px;
+  left: 623px;
+  right: 622px;
+  top: 267px;
+  bottom: -6128px;
+  /* text_16px (regular) */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 135%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.ofshi .ringo-img {
+  /* image 15 */
+  position: absolute;
+  width: 180px;
+  height: 156px;
+  left: 340px;
+  right: -340px;
+  top: 164px;
+  bottom: -6441px;
+}
+.ofshi .ringo-img2 {
+  /* Подарунок 2 */
+  position: absolute;
+  width: 166px;
+  height: 172px;
+  left: 1104px;
+  right: 330px;
+  top: 171px;
+  bottom: -6170px;
+}
+.ofshi .knopka {
+  /* Кнопка */
+  position: relative;
+  width: 260px;
+  height: 60px;
+  /* Автолейаут */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 370px 560px 220px 806px;
+}
+
+.ofshi .nashi {
+  /* Наші партнери */
+  position: absolute;
+  width: 1200px;
+  height: 303px;
+  left: 60px;
+  right: 200px;
+  top: 1851px;
+  bottom: 1343px;
+}
+.ofshi .nashi-text {
+  /* Наші партнери */
+  position: absolute;
+  width: 382px;
+  height: 58px;
+  left: 509px;
+  right: 209px;
+  top: 0px;
+  bottom: -6706px;
+  /* заголовок_H2 */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: left;
+  text-transform: uppercase;
+}
+.ofshi .nashi-img1 {
+  /* Group 23 */
+  position: absolute;
+  width: 285px;
+  height: 90px;
+  left: 0px;
+  top: 169px;
+}
+.ofshi .nashi-img2 {
+  /* Group 23 */
+  position: absolute;
+  width: 285px;
+  height: 90px;
+  left: 310px;
+  top: 169px;
+}
+.ofshi .nashi-img3 {
+  /* Group 23 */
+  position: absolute;
+  width: 285px;
+  height: 90px;
+  left: 620px;
+  top: 169px;
+}
+.ofshi .nashi-img4 {
+  /* Group 23 */
+  position: absolute;
+  width: 285px;
+  height: 90px;
+  left: 930px;
+  top: 169px;
+}
+.ofshi .nashi-img5 {
+  /* Стрілка */
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  left: 690px;
+  right: 155px;
+  top: 274px;
+  bottom: -7006px;
+}
+.ofshi .nashi-img6 {
+  /* Стрілка */
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  left: 500px;
+  right: 355px;
+  top: 274px;
+  bottom: -7006px;
+  transform: rotate(-180deg);
+}/*# sourceMappingURL=styles.css.map */
