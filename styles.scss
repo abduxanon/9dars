@@ -2,9 +2,8 @@
   /* Макет */
   position: relative;
   width: 1600px;
-  height: 8597px;
-  /* Білий (фон) */
-  background: rgb(255, 255, 255);
+  height: 9697px;
+
   .main {
     /* Етапи роботи */
     position: absolute;
@@ -452,5 +451,527 @@
     top: 274px;
     bottom: -7006px;
     transform: rotate(-180deg);
+  }
+}
+
+.ofshi {
+  .imy {
+    /* Rectangle 17 */
+    position: absolute;
+    width: 800px;
+    height: 796px;
+    left: -200px;
+    right: 800px;
+    top: 2415px;
+    bottom: -4215px;
+    /* Зелений */
+    background: rgb(61, 74, 57);
+  }
+  .imy1 {
+    /* Обговоримо ваш проект? */
+    position: absolute;
+    width: 413px;
+    height: 116px;
+    left: 230px;
+    right: 987px;
+    top: 135px;
+    bottom: -3735px;
+    /* заголовок_H2 */
+    color: rgb(255, 255, 255);
+    font-family: Raleway;
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 125%;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: uppercase;
+  }
+  .imy2 {
+    /* Заповніть форму і найближчим часом ми зв'яжемося з вами! */
+    position: absolute;
+    width: 306px;
+    height: 46px;
+    left: 240px;
+    right: 1094px;
+    top: 281px;
+    bottom: -3801px;
+    /* text_16px (medium) */
+    color: rgb(255, 255, 255);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 145%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .imy3 {
+    /* Ім'я */
+    position: absolute;
+    width: 27px;
+    height: 23px;
+    left: 240px;
+    right: 73px;
+    top: 377px;
+    bottom: -4527px;
+    /* text_16px (medium) */
+    color: rgb(255, 255, 255);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 145%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .er {
+    /* Line 14 */
+    position: absolute;
+    width: 300px;
+    height: 0;
+    left: 1735px;
+    top: 4629px;
+    /* Білий */
+    border: 2px solid rgb(203, 194, 194);
+    opacity: 0.2;
+  }
+  .imy4 {
+    /* Номер телефону */
+    position: absolute;
+    width: 131px;
+    height: 23px;
+    left: 240px;
+    right: -31px;
+    top: 465px;
+    bottom: -4585px;
+    /* text_16px (medium) */
+    color: rgb(255, 255, 255);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 145%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .er1 {
+    /* Line 14 */
+    position: absolute;
+    width: 300px;
+    height: 0;
+    left: 1735px;
+    top: 4709px;
+    /* Білий */
+    border: 2px solid rgb(203, 194, 194);
+    opacity: 0.2;
+  }
+  .imy5 {
+    /* Прикріпити проект */
+    position: absolute;
+    width: 157px;
+    height: 18px;
+    left: 230px;
+    right: 1243px;
+    top: 530px;
+    bottom: -3975px;
+    opacity: 0.5;
+  }
+  .imy7 {
+    /* Кнопка */
+    position: relative;
+    width: 300px;
+    height: 60px;
+    top: 600px;
+    left: 220px;
+    /* Автолейаут */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 22px 56px 22px 56px;
+    box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.05);
+    /* Коричневий */
+    background: rgb(174, 123, 60);
+  }
+  .imy8 {
+    /* Відправити */
+    position: static;
+    width: 91px;
+    height: 16px;
+    /* Автолейаут */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 1px 56px 22px 56px;
+
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+    /* text_botton */
+    color: rgb(255, 255, 255);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .imy9 {
+    /* Даю згоду на оброблення персональних даних */
+    position: absolute;
+    width: 298px;
+    height: 15px;
+    left: 200px;
+    top: 706px;
+  }
+  .imy10 {
+    /* Rectangle 6 */
+    position: absolute;
+    width: 800px;
+    height: 796px;
+    left: 800px;
+    right: 0;
+    top: 0px;
+    bottom: -4215px;
+  }
+}
+.ofshi {
+  .footer {
+    /* Футер */
+    position: absolute;
+    width: 1600px;
+    height: 470px;
+    left: 0;
+    top: 8377px;
+    /* Чорний */
+    border: 1px solid rgb(40, 43, 34);
+  }
+  .footer-img {
+    /* Бренди комплектуючих */
+    position: absolute;
+    // width: 209px;
+    // height: 18px;
+    left: 200px;
+    right: 1191px;
+    top: 0px;
+    bottom: -8219px;
+  }
+  .footer-textp {
+    /* Соцмережі: */
+    position: absolute;
+    width: 129px;
+    height: 74px;
+    left: 200px;
+    right: -148px;
+    top: 49px;
+    bottom: -8229px;
+    /* text_14px (medium) */
+    color: rgb(40, 43, 34);
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .foter-link1 {
+    /* Основні напрямки */
+    position: absolute;
+    width: 141px;
+    height: 16px;
+    left: 573px;
+    right: 886px;
+    top: 0px;
+    bottom: -7757px;
+    /* Пункти меню_16 px (medium) */
+    color: rgb(40, 43, 34);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .foter-link2 {
+    /* Основні напрямки */
+    position: absolute;
+    width: 141px;
+    height: 16px;
+    left: 573px;
+    right: 886px;
+    top: 40px;
+    bottom: -7757px;
+    /* Пункти меню_16 px (medium) */
+    color: rgb(40, 43, 34);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .foter-link3 {
+    /* Основні напрямки */
+    position: absolute;
+    width: 141px;
+    height: 16px;
+    left: 573px;
+    right: 886px;
+    top: 80px;
+    bottom: -7757px;
+    /* Пункти меню_16 px (medium) */
+    color: rgb(40, 43, 34);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .foter-link4 {
+    /* Основні напрямки */
+    position: absolute;
+    width: 141px;
+    height: 16px;
+    left: 793px;
+    right: 886px;
+    top: 0px;
+    bottom: -7757px;
+    /* Пункти меню_16 px (medium) */
+    color: rgb(40, 43, 34);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .foter-link5 {
+    /* Основні напрямки */
+    position: absolute;
+    width: 141px;
+    height: 16px;
+    left: 793px;
+    right: 886px;
+    top: 40px;
+    bottom: -7757px;
+    /* Пункти меню_16 px (medium) */
+    color: rgb(40, 43, 34);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .foter-link6 {
+    /* Основні напрямки */
+    position: absolute;
+    width: 141px;
+    height: 16px;
+    left: 793px;
+    right: 886px;
+    top: 80px;
+    bottom: -7757px;
+    /* Пункти меню_16 px (medium) */
+    color: rgb(40, 43, 34);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .foter-img {
+    /* +380 67661 5415 */
+    position: absolute;
+    width: 190px;
+    height: 22px;
+    left: 1120px;
+    right: 290px;
+    top: 0px;
+    bottom: -7759px;
+  }
+  .foter-knopka {
+    /* Кнопка */
+    position: relative;
+    width: 280px;
+    height: 60px;
+    top: 40px;
+    left: 1090px;
+    /* Автолейаут */
+    // display: flex;
+    // flex-direction: row;
+    // justify-content: center;
+    // align-items: flex-start;
+    // padding: 220px 56px 22px 56px;
+  }
+  .sr {
+    /* Line 9 */
+    position: absolute;
+    width: 1600px;
+    height: 0;
+    left: 0px;
+    top: 8559.5px;
+    transform: rotate(180deg);
+    /* Чорний */
+    border: 1px solid rgb(40, 43, 34);
+    opacity: 0.2;
+  }
+  .songi-p {
+    /* Бренди комплектуючих */
+    position: absolute;
+    width: 209px;
+    height: 18px;
+    left: 200px;
+    right: 1191px;
+    top: 219px;
+    bottom: -8219px;
+    /* text_18px (semibold) */
+    color: rgb(61, 74, 57);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .songi-img1 {
+    /* image 8 */
+    position: absolute;
+    width: 106px;
+    height: 90px;
+    left: 120px;
+    right: 1304px;
+    top: 245px;
+    bottom: -8287px;
+  }
+  // .songi-img2 {
+  //   /* image 9 */
+  //   position: absolute;
+  //   width: 1138px;
+  //   height: 30px;
+  //   left: 4px;
+  //   right: 1128px;
+  //   top: 285px;
+  //   bottom: -8287px;
+  // }
+  .songi-img3 {
+    /* image 8 */
+    position: absolute;
+    width: 106px;
+    height: 90px;
+    left: 310px;
+    right: 1304px;
+    top: 245px;
+    bottom: -8287px;
+  }
+  .songi-img4 {
+    /* image 8 */
+    position: absolute;
+    width: 100px;
+    height: 90px;
+    left: 500px;
+    right: 1304px;
+    top: 245px;
+    bottom: -8287px;
+  }
+  .songi-img5 {
+    /* image 8 */
+    position: absolute;
+    width: 106px;
+    height: 90px;
+    left: 640px;
+    right: 1304px;
+    top: 245px;
+    bottom: -8287px;
+  }
+  .songi-img6 {
+    /* image 8 */
+    position: absolute;
+    width: 106px;
+    height: 90px;
+    left: 800px;
+    right: 1304px;
+    top: 245px;
+    bottom: -8287px;
+  }
+  .songi-img7 {
+    /* image 8 */
+    position: absolute;
+    width: 106px;
+    height: 90px;
+    left: 980px;
+    right: 1304px;
+    top: 245px;
+    bottom: -8287px;
+  }
+  .songi-img8 {
+    /* image 8 */
+    position: absolute;
+    width: 106px;
+    height: 90px;
+    left: 1170px;
+    right: 1304px;
+    top: 245px;
+    bottom: -8287px;
+  }
+  .songi-img9 {
+    /* image 8 */
+    position: absolute;
+    width: 106px;
+    height: 90px;
+    left: 1350px;
+    right: 1304px;
+    top: 245px;
+    bottom: -8287px;
+  }
+  .srl {
+    /* Line 8 */
+    position: absolute;
+    width: 1200px;
+    height: 0;
+    left: 200px;
+    top: 8723.5px;
+    transform: rotate(180deg);
+    /* Чорний */
+    border: 1px solid rgb(40, 43, 34);
+    opacity: 0.2;
+  }
+  .p3 {
+    /* © 2021 Ringo */
+    position: absolute;
+    width: 87px;
+    height: 14px;
+    left: 200px;
+    right: 1313px;
+    top: 373px;
+    bottom: -8359px;
+    /* text_14px (medium) */
+    color: rgb(40, 43, 34);
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .p4 {
+    /* © 2021 Ringo */
+    position: absolute;
+    width: 87px;
+    height: 14px;
+    left: 1300px;
+    right: 1313px;
+    top: 373px;
+    bottom: -8359px;
+    /* text_14px (medium) */
+    color: rgb(40, 43, 34);
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
   }
 }
